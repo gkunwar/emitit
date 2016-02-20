@@ -1,12 +1,12 @@
 {
   "name": "Emitit",
   "version": "0.1.0",
-  "description": "",
+  "description": "A desktop app for Emitii[emitii.com]",
   "main": "http://emitii.com/app/sign_in",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "authors": [ "krazedkrish<krazedkrish@gmail.com>", "sarbadaj<sarbada@jyaasa.com>", "nikesh<nikesh@gmail.com>"],
   "window": {
     "toolbar": true,
     "width": 400,
