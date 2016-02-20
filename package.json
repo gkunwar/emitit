@@ -1,0 +1,19 @@
+{
+  "name": "Emitit",
+  "version": "0.1.0",
+  "description": "",
+  "main": "http://emitii.com/app/sign_in",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "window": {
+    "toolbar": true,
+    "width": 400,
+    "height": 500
+  },
+  "license": "ISC",
+  "dependencies": {
+    "pretty-bytes": "^1.0.2"
+  }
+}
